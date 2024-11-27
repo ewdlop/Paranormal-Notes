@@ -61,3 +61,12 @@ https://www.youtube.com/watch?v=peRx3fLEKgw&list=RDpeRx3fLEKgw&start_radio=1&rv=
 世尊這是真的嗎?.…
 
 世尊這是真的嗎?.…
+
+# 
+#
+#
+#
+while(true)
+{
+  print("阿彌陀佛");
+}
