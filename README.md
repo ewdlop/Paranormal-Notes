@@ -98,3 +98,7 @@ while(true)
 {
   print("阿彌陀佛");
 }
+
+# haha NO
+
+[Young Frankenstein Abby Normal](https://www.youtube.com/watch?v=C9Pw0xX4DXI)
