@@ -7,3 +7,5 @@ deterministic chaotic system
 
 #===============================
 TODO
+
+hallucination when under fear?
