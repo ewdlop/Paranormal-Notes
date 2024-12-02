@@ -8,4 +8,7 @@ deterministic chaotic system
 #===============================
 TODO
 
-hallucination when under fear?
+hallucination when under fear
+
+#==============================
+(I would love to study more science)
